@@ -1,0 +1,31 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/mech": "Mechanism2d"
+    },
+    "windows": {
+      "/SmartDashboard/mech": {
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables": {
+    "transitory": {
+      "SmartDashboard": {
+        "mech": {
+          "open": true,
+          "point": {
+            "base": {
+              "open": true
+            },
+            "open": true
+          }
+        },
+        "open": true
+      }
+    }
+  }
+}
